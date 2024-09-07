@@ -1,0 +1,12 @@
+# drug_prediction
+<img src="./Image/__results___6_0.png"/>
+<img src="./Image/__results___10_0.png"/>
+<img src="./Image/__results___10_1.png"/>
+<img src="./Image/__results___10_2.png"/>
+<img src="./Image/__results___11_1.png"/>
+<img src="./Image/__results___11_2.png"/>
+<img src="./Image/__results___11_3.png"/>
+<img src="./Image/__results___12_0.png"/>
+<img src="./Image/__results___14_0.png"/>
+<img src="./Image/__results___15_0.png"/>
+<img src="./Image/__results___20_0.png"/>
